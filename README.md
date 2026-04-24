@@ -1,9 +1,9 @@
-# GiveMeSomeCredit - Risk Management Project
+# Risk Management Project
 ## Project Goal
 Prediction of client financial issue probability in 2-year scope.
 
 ## Data
-Source: [Kaggle - Give Me Some Credit](https://www.kaggle.com/competitions/GiveMeSomeCredit/data)
+Source: [Kaggle - Credit Risk](https://www.kaggle.com/datasets/laotse/credit-risk-dataset/data)
 
 ## Project Progression
 - [] Exploratory Data Analysis
